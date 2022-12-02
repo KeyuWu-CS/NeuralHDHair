@@ -30,7 +30,9 @@ The source code of the networks for our paper ["NeuralHDHair: Automatic High-fid
 
 # Tips #
 1.Data, some data processing and rendering code do not have permissions and cannot open source temporarily.
+
 2.Use high-quality images as much as possible, the quality of reconstruction depends largely on the quality of  generated orientation map.
+
 3.The hair should be aligned with the bust as much as possible, you may need the face alignment algorithm to calculate the affine transformation.(data/Train_input/DB1 contains standard input samples)
 
 
