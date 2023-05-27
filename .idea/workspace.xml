@@ -12,6 +12,7 @@
     <session id="512629944">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -66,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/Code/Models/Local_filter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
-              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="44" />
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
               </folding>
@@ -192,7 +193,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -567,7 +567,7 @@
     <entry file="file://$PROJECT_DIR$/Code/Models/Local_filter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="44" />
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="44" />
           <folding>
             <element signature="e#0#42#0" expanded="true" />
           </folding>
