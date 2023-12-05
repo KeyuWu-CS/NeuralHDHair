@@ -35,6 +35,10 @@ The source code of the networks for our paper ["NeuralHDHair: Automatic High-fid
 
 3.The hair should be aligned with the bust as much as possible, you may need the face alignment algorithm to calculate the affine transformation.(data/Train_input/DB1 contains standard input samples)
 
+# Related works #
+The latest work [MonoHair](https://keyuwu-cs.github.io/MonoHair/)
+For Dynamic hair modeling [DynamicHair](https://github.com/Lingchen-chen/Dynamic-Hair)
+
 
 # Citation #
     @inproceedings{wu2022neuralhdhair,
