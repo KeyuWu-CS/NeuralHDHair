@@ -37,6 +37,7 @@ The source code of the networks for our paper ["NeuralHDHair: Automatic High-fid
 
 # Related works #
 The latest work [MonoHair](https://keyuwu-cs.github.io/MonoHair/)
+
 For Dynamic hair modeling [DynamicHair](https://github.com/Lingchen-chen/Dynamic-Hair)
 
 
